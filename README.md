@@ -1,4 +1,10 @@
 # Xeva: XEnograft Visualization & Analysis
+This is the classic version of Xeva. To install this use:
+```
+library(devtools)
+devtools::install_github("merlab/Xeva")
+```
+
 
 ## Integration of molecular and pharmacological profiles of patient-derived xenograft models.
 
@@ -19,11 +25,5 @@ download the source package from: https://figshare.com/s/bc4b892b38c04937b791
 - Install latest version of Xeva directly from Github using `devtools`:
 ```
 library(devtools)
-devtools::install_github("bhklab/Xeva")
-```
-- To install from Bioconductor
-```
-if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
-BiocManager::install("Xeva", version = "3.9")
+devtools::install_github("merlab/Xeva")
 ```
