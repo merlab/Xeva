@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2}Installation and Settings}{3}{}%
+\contentsline {section}{\numberline {3}Definitions}{4}{}%
+\contentsline {section}{\numberline {4}Data Access}{4}{}%
+\contentsline {section}{\numberline {5}Visualizing PDX Growth Curve}{6}{}%
+\contentsline {section}{\numberline {6}Replicate-based PDX experiments}{6}{}%
+\contentsline {section}{\numberline {7}PDX Model Drug Response}{7}{}%
+\contentsline {subsection}{\numberline {7.1}PDX response calculation}{7}{}%
+\contentsline {subsection}{\numberline {7.2}Setting response for XevaSet}{12}{}%
+\contentsline {subsection}{\numberline {7.3}Visualizing PDX response}{12}{}%
+\contentsline {section}{\numberline {8}Gene-drug association}{16}{}%
+\contentsline {section}{\numberline {9}Creating new Xeva object}{17}{}%
+\contentsline {section}{\numberline {10}SessionInfo}{22}{}%
